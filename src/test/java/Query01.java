@@ -29,6 +29,11 @@ public class Query01 {
 
         }
 
+        // Soru3: Tüm bölümlerde çalışan personel isimlerini, bölüm isimlerini ve maaşlarını,
+        // bölüm ve maas sıralı listeleyiniz.
+        // NOT: Çalışanı olamasa bile bölüm ismi gösterilmelidir.
+
+
         //kapatma
         con.close();
         st.close();
