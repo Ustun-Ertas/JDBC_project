@@ -9,7 +9,7 @@ public class Query06 {
 
         Class.forName("com.mysql.cj.jdbc.Driver");
 
-        Connection con =  DriverManager.getConnection("jdbc:mysql://localhost:3306/batch59?serverTimezone=UTC", "root", "Murat34+");
+        Connection con =  DriverManager.getConnection("jdbc:mysql://localhost:3305/batch59?serverTimezone=UTC", "root", "1234");
 
         Statement st = con.createStatement();
 
